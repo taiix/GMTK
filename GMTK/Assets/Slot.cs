@@ -12,10 +12,4 @@ public class Slot : MonoBehaviour
 
         image.sprite = texture;
     }
-
-
-    void Update()
-    {
-        
-    }
 }
